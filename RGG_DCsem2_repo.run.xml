@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>main.bcf</file>
+      <file>RGG_DCsem2_repo.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>main.bbl</file>
+      <file>RGG_DCsem2_repo.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -66,19 +66,19 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>main</infile>
+      <infile>RGG_DCsem2_repo</infile>
     </cmdline>
     <input>
-      <file>main.bcf</file>
+      <file>RGG_DCsem2_repo.bcf</file>
     </input>
     <output>
-      <file>main.bbl</file>
+      <file>RGG_DCsem2_repo.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>main.bbl</file>
+      <file>RGG_DCsem2_repo.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>main.bcf</file>
+      <file>RGG_DCsem2_repo.bcf</file>
     </requires>
     <requires type="editable">
       <file>bibliografia.bib</file>

@@ -1,0 +1,36 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{1}{section.1}%
+\contentsline {section}{\numberline {2}Marco conceptual}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Radiología}{2}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Estudios de imagen para cáncer de pulmón}{2}{subsubsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.2}Criterios de evaluación para cáncer de pulmón}{3}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Criterios basados en cambios morfológicos}{3}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Criterios basados en cambios metabólicos}{4}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Radiomica}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Inteligencia artificial}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Redes neuronales profundas}{5}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Redes neuronales convolucionales}{6}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Redes neuronales recurrentes}{7}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Funciones de activación para redes neuronales}{8}{subsubsection.2.5.3}%
+\contentsline {subsubsection}{\numberline {2.5.4}Métricas de evaluación}{9}{subsubsection.2.5.4}%
+\contentsline {subsection}{\numberline {2.6}Procesamiento de imágenes}{10}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Estado del arte}{11}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Evaluación clínica para tratamientos de cáncer de pulmón}{11}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Aplicación de radiomica en cáncer de pulmón}{13}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Clasificación para diagnostico}{13}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Metodologías usadas en la evaluación de tratamientos}{13}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Conclusiones}{20}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Propuesta}{21}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Planteamiento del problema}{21}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Propuesta de solución}{22}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Justificación}{22}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Objetivos}{22}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}General}{22}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}Específicos}{23}{subsubsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.5}Metas}{23}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Metodología}{23}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Aportación}{24}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Alcances y limitaciones}{24}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Cronograma de actividades}{24}{subsection.4.9}%
+\contentsline {subsection}{\numberline {4.10}Avances}{24}{subsection.4.10}%
+\contentsline {section}{Bibliografia}{25}{section*.5}%
